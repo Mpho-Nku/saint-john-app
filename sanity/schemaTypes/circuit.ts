@@ -1,5 +1,5 @@
 
-import {defineType,schemaField,defineField,schemaDefinition} from "sanity";
+import {defineType,defineField} from "sanity";
 export const circuit = defineType({
     name:"circuit",
     title:"Circuit",
