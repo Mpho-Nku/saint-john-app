@@ -10,7 +10,7 @@ const Footer = () => {
       <div>
         <h3 className="font-semibold text-lg mb-4">Company</h3>
         <ul>
-          <li><a href="#" clasName="hover:text-gray-400">About</a></li>
+          <li><a href="#" className="hover:text-gray-400">About</a></li>
           <li><a href="#" className="hover:text-gray-400">Careers</a></li>
           <li><a href="#" className="hover:text-gray-400">Newsroom</a></li>
           <li><a href="#" className="hover:text-gray-400">Investor Relations</a></li>
